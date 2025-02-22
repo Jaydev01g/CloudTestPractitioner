@@ -33,8 +33,6 @@
 - **Hybrid Cloud:** Combines two or more cloud types, providing the benefits of both private and public clouds.
   - *Example:* A company using a hybrid cloud to handle sensitive data in a private cloud while leveraging the public cloud for scalability.
 
-**Diagram: Cloud Deployment Models**
-!Cloud Deployment Models
 
 #### 1.2 Cloud Computing Advantages and Disadvantages
 
@@ -59,8 +57,6 @@
 - **Increased External Dependency:** Relies on external providers for mission-critical applications.
 - **Increased Monitoring Required:** Requires constant monitoring and enforcement of service level agreements (SLAs).
 
-**Diagram: Cloud Computing Advantages and Disadvantages**
-!Cloud Computing Advantages and Disadvantages
 
 #### 1.3 Service Models in Cloud
 
@@ -85,9 +81,6 @@
   - *Example:* VMware Horizon provides virtual desktops and applications.
 - **Disaster Recovery as a Service (DRaaS):** Cloud-based disaster recovery solutions.
   - *Example:* Zerto offers disaster recovery services to ensure business continuity.
-
-**Diagram: Cloud Service Models**
-!Cloud Service Models
 
 #### 1.4 X as Code
 
@@ -116,8 +109,6 @@
 - **CPU-Intensive vs. Data-Intensive Jobs:** Cloud provides lower costs for CPU-intensive jobs compared to data-intensive jobs.
 - **Unintended Costs:** Risks of unintended costs when servers are left running and consuming resources without active use.
 
-**Diagram: Cost of Cloud Computing**
-!Cost of Cloud Computing
 
 ### Example Questions
 
